@@ -3,7 +3,7 @@
 - 🏫 Currently studying at São Paulo Federal Institute, Cubatão Campus
 - 🎓 Computer technician graduated from São Paulo Federal Institute, Cubatão Campus
 
-<img src="https://github-readme-stats.vercel.app/api?username=nategomes01&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true" style="max-width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api?username=lucasMendss01&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true" style="max-width: 100%;">
 
 ## Linguagens que trabalho: 
 <div style="display: inline_block"><br>
