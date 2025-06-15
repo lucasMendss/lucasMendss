@@ -5,7 +5,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=lucasMendss&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true" style="max-width: 100%;">
 
-## Linguagens que trabalho: 
+## Technologies I'm using/studying: 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
