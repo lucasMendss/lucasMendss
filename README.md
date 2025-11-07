@@ -4,8 +4,6 @@
 - 🏫 Currently studying at São Paulo Federal Institute, Cubatão Campus
 - 🎓 Computer technician graduated from São Paulo Federal Institute, Cubatão Campus
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucasMendss&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true" style="max-width: 100%;">
-
 ## Technologies which I have knowledge: 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
