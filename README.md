@@ -1,10 +1,9 @@
-## Hi!! I'm Lucas Mendes 👋
+## Oi!! Eu sou o Lucas Mendes 👋
 
-- 🔭 Looking for an internship and new challenges
-- 🏫 Currently studying at São Paulo Federal Institute, Cubatão Campus
-- 🎓 Computer technician graduated from São Paulo Federal Institute, Cubatão Campus
+- 🏫 Graduando em Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo Campus Cubatão
+- 🎓 Técnico em Informática formado pelo Instituto Federal de São Paulo Campus Cubatão
 
-## Technologies which I have knowledge: 
+## Tecnologias: 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +16,7 @@
   <img align="center" alt="Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </div>
 
-## You can contact me on:
+## Contato:
 <div>
   <a href="https://www.linkedin.com/in/lucas-mendes-ab938a265" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
