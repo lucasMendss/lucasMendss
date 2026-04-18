@@ -4,7 +4,7 @@
 - 🎓 Técnico em Informática formado pelo Instituto Federal de São Paulo Campus Cubatão
 
 ## Tecnologias: 
-<div style="display: inline_block"><br>
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center"><br>
   <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="NodeJS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
